@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import messagebox as ms
 from random import randint as rd
+from db import *
 
 
 class Ventana:
